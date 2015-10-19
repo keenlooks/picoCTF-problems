@@ -1,0 +1,9 @@
+{
+  "name": "Broken RSA",
+  "category": "Cryptography",
+  "description" : "<p>{{url_for(\"broken_rsa.py\")}} seems to be broken. Connect to it at {{server}}:{{port}}. They encrypt the flag and send it to you each time... but they throw out the private key and you never get to see it. Any ideas on how to recover the flag?</p>",
+  "hints" : ["Connect from the shell with nc. Read up on RSA and try to figure out why this might be bad... Good luck!"],
+  "score" : 180,
+  "author": "Tim Becker",
+  "organization": "ForAllSecure"
+}
