@@ -1,0 +1,9 @@
+{
+  "name": "Broken CBC",
+  "category": "Cryptography",
+  "description" : "<p>We found {{url_for(\"broken_cbc.py\")}} running at {{server}}:{{port}}. Unfortunately the sensitive information such as the encryption keys, IV, and flag have all been deleted. Our cryptographic spies tell us it is still insecure, but we aren't sure how to send it commands. Do you think you can figure it out?</p>",
+  "hints" : ["Connect to the service using nc. You may find <a href='http://www.skullsecurity.org/blog/2013/padding-oracle-attacks-in-depth' target='_blank'>this reference on padding oracle attacks</a> helpful"],
+  "score" : 125,
+  "author": "Tim Becker",
+  "organization": "ForAllSecure"
+}
