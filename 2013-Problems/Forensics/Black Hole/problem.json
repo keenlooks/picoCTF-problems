@@ -1,0 +1,9 @@
+{
+  "name": "Black Hole",
+  "category": "Forensics",
+  "description" : "<p>Near the galactic core, you find a beacon indicating that an ancient civilization hid one of their worlds <a href='/problems/blackhole.img'>within a nearby black hole</a>.  Is this what passes for intergalactic humor, or is there actually something in there?</p><p>The disk image can be found on the shell machines at <code>/problems/blackhole.img</code> and the contents of the image are available in <code>/problems/blackhole/</code></p>",
+  "hints" : ["ls -b will help you get past the first hurdle.  Good luck and godspeed."],
+  "score" : 115,
+  "author": "Tim Becker",
+  "organization": "ForAllSecure"
+}
