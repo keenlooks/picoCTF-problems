@@ -1,7 +1,0 @@
-Description: <p>Near the galactic core, you find a beacon indicating that an ancient civilization hid one of their worlds <a href='/problems/blackhole.img'>within a nearby black hole</a>.  Is this what passes for intergalactic humor, or is there actually something in there?</p><p>The disk image can be found on the shell machines at <code>/problems/blackhole.img</code> and the contents of the image are available in <code>/problems/blackhole/</code></p>
-Priority: standard
-Version: 1.0-0
-Package: black-hole
-Section: ctf
-Architecture: all
-Maintainer: Tim Becker
